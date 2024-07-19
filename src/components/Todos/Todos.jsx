@@ -10,7 +10,7 @@ export default function Todos() {
     <Card className="w-fit mx-auto md:w-[80vw] lg:w-[80vw] mt-10 xl:w-[60vw] 2xl:w-[50vw]">
       <CardHeader>
         <CardTitle className="font-bold flex justify-center gap-8 items-center">
-          Ultimate Todo App
+          Advanced Todo App
           <Theme />
         </CardTitle>
       </CardHeader>
